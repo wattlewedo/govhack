@@ -13,6 +13,8 @@ Infrastructure: https://datahub.moretonbay.qld.gov.au/maps/946bd68836334bc1b2628
 Shorebird roost: https://datahub.moretonbay.qld.gov.au/maps/17cd5a858e7a4bff95041f96e0da349b
 Coastal erosion: https://datahub.moretonbay.qld.gov.au/maps/5031bcebdaf94882b51e5b588786c429
 Significant trees: https://datahub.moretonbay.qld.gov.au/maps/be807fd234f74dd78b4f40bcd09b0cb5
+ License: https://creativecommons.org/licenses/by/4.0
+
 Weather impacted road closures: https://datahub.moretonbay.qld.gov.au/maps/d8584e5e84f34ce2b646df254a81050c
 GeoJSON reader app: https://datahub.moretonbay.qld.gov.au/apps/77c062e6e75449d889ccb8e3754c362a
 Planned burns: https://datahub.moretonbay.qld.gov.au/maps/fdc38fcca63844aa92b160b4064a02fb
