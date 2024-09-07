@@ -9,7 +9,6 @@ const Map = () => {
 
 const position = [-27.231449, 153.0992509]
  return (
-    <>
   <MapContainer id="map" center={position} zoom={13} scrollWheelZoom={false}>
     <TileLayer
       attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -21,7 +20,7 @@ const position = [-27.231449, 153.0992509]
       </Popup>
     </Marker>
   </MapContainer>
-  </>);
+  );
 };
 
 export default Map;

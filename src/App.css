@@ -7,7 +7,7 @@
   pointer-events: none;
 }
 
-#map { height: 300px; }
+#map { height: 600px; }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
