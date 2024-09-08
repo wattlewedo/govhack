@@ -1,5 +1,5 @@
 ## Data analysis
-[home](Readme.md)
+[home](../README.md)
 
 Significant trees are used for ...
 

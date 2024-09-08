@@ -1,5 +1,5 @@
 ## Sources
-[home](Readme.md)
+[home](../README.md)
 
 A CSV of the Morton Bay public data catalogue can be downloaded using the elipsis icon (...) menu
 on the top-right of the page at: [DataHub Search Page](https://datahub.moretonbay.qld.gov.au/search)
