@@ -8,20 +8,19 @@ This project primarily uses data published by the
 in their DataHub. In particular it uses data from the govhack category at
 [Morton Bay DataHub](https://datahub.moretonbay.qld.gov.au/search?categories=%252Fcategories%252Fgovhack)
 
-The GovHack 2024 challenges:
+## The [GovHack 2024](https://govhack.org/) challenges:
 
-## [Moreton Bay Greening as We Grow (QLD)](https://hackerspace.govhack.org/challenges/moreton_bay_greening_as_we_grow_qld_378)
+[Moreton Bay Greening as We Grow (QLD)](https://hackerspace.govhack.org/challenges/moreton_bay_greening_as_we_grow_qld_378)
 
 _How might we harness the power of the everyday citizen to help protect our diverse flora and fauna
 as we grow our region, creating a diverse and flourishing planet for generations to come?_
 
-
-## [Boosting Tourism in the Northern Territory](https://hackerspace.govhack.org/challenges/boosting_tourism_in_the_northern_territory)
+[Boosting Tourism in the Northern Territory](https://hackerspace.govhack.org/challenges/boosting_tourism_in_the_northern_territory)
 
 _How can data be leveraged to create innovative solutions that boost tourism in the Northern
 Territory, attract more visitors, and/or enhance their cultural experience?_
 
-## [Civic participation for a more resilient, cohesive democracy](https://hackerspace.govhack.org/challenges/civic_participation_for_a_more_resilient_cohesive_democracy)
+[Civic participation for a more resilient, cohesive democracy](https://hackerspace.govhack.org/challenges/civic_participation_for_a_more_resilient_cohesive_democracy)
 
 _How can we help more people to understand their democracy, have an opportunity to participate in
 civic life, contribute to their community, and/or feel a sense of belonging and responsibility?_
