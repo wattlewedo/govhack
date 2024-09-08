@@ -5,7 +5,7 @@ import { Outlet } from "react-router-dom";
 export default function Root() {
   return (
     <div className="app">
-      <h1>WattleWatch</h1>
+      <img alt="WattleWatch Logo" src="logo_transparent.png" />
       <Outlet />
       <menu className="footer">
         <ButtonGroup>
