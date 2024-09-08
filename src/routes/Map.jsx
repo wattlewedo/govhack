@@ -3,7 +3,7 @@ import { TileLayer } from "react-leaflet/TileLayer";
 import { useMap } from "react-leaflet/hooks";
 import { Marker } from "react-leaflet/Marker";
 import { Popup } from "react-leaflet/Popup";
-import { Button } from "react-bootstrap";
+
 import { significantTrees } from "../data/MBRC_Planning_Scheme_-_Heritage_Landscape_Significant_Trees";
 
 const Map = () => {
