@@ -1,29 +1,21 @@
+import { ButtonGroup, Button } from "react-bootstrap";
 import "../App.css";
 import { Outlet } from "react-router-dom";
 
 export default function Root() {
   return (
-    <>
-      <div>
-        <h1>WattleWatch</h1>
-        <Outlet />
-        <nav>
-          <ul>
-            <li>
-              <a href={`/map`}>Map</a>
-            </li>
-            <li>
-              <a href={`/camera`}>Camera</a>
-            </li>
-            <li>
-              <a href={`/Log`}>Log</a>
-            </li>
-            <li>
-              <a href={`/Account`}>Account</a>
-            </li>
-          </ul>
-        </nav>
-      </div>
-    </>
+    <div className="app">
+      <h1>WattleWatch</h1>
+      <Outlet />
+      <menu className="footer">
+        <ButtonGroup>
+          <Button href={`/map`}>Map</Button>
+          <Button href={`/camera`}>Camera</Button>
+          <Button href={`/Log`}>Log</Button>
+          <Button href={`/Social`}>Social</Button>
+          <Button href={`/Account`}>Account</Button>
+        </ButtonGroup>
+      </menu>
+    </div>
   );
 }
