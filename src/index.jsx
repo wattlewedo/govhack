@@ -38,15 +38,15 @@ const router = createBrowserRouter([
         element: <Report />,
       },
       {
-        path: "log",
+        path: "/log",
         element: <Log />,
       },
       {
-        path: "account",
+        path: "/account",
         element: <Account />,
       },
       {
-        path: "social",
+        path: "/social",
         element: <Social />,
       },
     ],

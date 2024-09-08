@@ -11,9 +11,9 @@ export default function Root() {
         <ButtonGroup>
           <Button href={`/map`}>Map</Button>
           <Button href={`/camera`}>Camera</Button>
-          <Button href={`/Log`}>Log</Button>
-          <Button href={`/Social`}>Social</Button>
-          <Button href={`/Account`}>Account</Button>
+          <Button href={`/log`}>Log</Button>
+          <Button href={`/social`}>Social</Button>
+          <Button href={`/account`}>Account</Button>
         </ButtonGroup>
       </menu>
     </div>
