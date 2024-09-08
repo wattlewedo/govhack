@@ -10,6 +10,7 @@ import Log from "./routes/Log";
 import Account from "./routes/Account";
 import Social from "./routes/Social";
 import Friends from "./routes/Friends";
+import Challenges from "./routes/Challenges";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
@@ -53,6 +54,10 @@ const router = createBrowserRouter([
       {
         path: "friends",
         element: <Friends />,
+      },
+      {
+        path: "challenges",
+        element: <Challenges />,
       },
     ],
   },

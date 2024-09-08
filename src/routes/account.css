@@ -1,35 +1,40 @@
 .account {
-  background-color: orange;
+    background-color: orange;
 }
 
 .container {
-    width: 100%;
-    max-width: 400px;
-    margin: 0 auto;
-    text-align: center;
+    /* width: 100%; */
+    /* max-width: 400px; */
+    /* margin: 0 auto; */
+    /* text-align: center; */
     padding: 20px;
-  }
-  
-  h1 {
+}
+
+.asdf {
+    text-align: center;
+    margin: auto;
+}
+
+h1 {
     font-size: 24px;
     margin-bottom: 20px;
-  }
-  
-  .form {
+}
+
+.form {
     display: flex;
     flex-direction: column;
-  }
-  
-  .input-field {
+}
+
+.input-field {
     padding: 10px;
     margin: 10px 0;
     font-size: 16px;
     border-radius: 10px;
     border: 1px solid lightgray;
     width: 100%;
-  }
-  
-  .btn {
+}
+
+.btn {
     background-color: lightgray;
     color: black;
     padding: 10px;
@@ -38,45 +43,46 @@
     border-radius: 10px;
     cursor: pointer;
     margin-top: 20px;
-  }
-  
-  .divider {
+}
+
+.divider {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 20px 0;
-  }
-  
-  .line {
+}
+
+.line {
     flex-grow: 1;
     height: 1px;
     background-color: lightgray;
     margin: 0 10px;
-  }
-  
-  .social-login {
+}
+
+.social-login {
     display: flex;
     justify-content: space-around;
-  }
-  
-  .social-button {
+}
+
+.social-button {
     display: flex;
     flex-direction: column;
     align-items: center;
     cursor: pointer;
-  }
-  
-  .social-icon {
+}
+
+.social-icon {
     width: 40px;
     height: 40px;
     margin-bottom: 5px;
-  }
-  
-  .footer {
+}
+
+.footer {
     margin-top: 20px;
-  }
-  
-  .login-btn {
+}
+
+.login-btn {
+    margin: 0 auto;
     background-color: lightgray;
     color: black;
     padding: 10px;
@@ -84,4 +90,4 @@
     border: none;
     border-radius: 10px;
     cursor: pointer;
-  }
+}

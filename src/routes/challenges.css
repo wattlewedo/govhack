@@ -1,0 +1,89 @@
+.challenges-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 24px;
+    text-align: center;
+    color: green;
+    margin-bottom: 20px;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 18px;
+    color: green;
+    margin-bottom: 10px;
+  }
+  
+  .challenge-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+  }
+  
+  .icon-placeholder {
+    width: 40px;
+    height: 40px;
+    background-color: lightgray;
+    border-radius: 50%;
+  }
+  
+  .challenge-info {
+    flex-grow: 1;
+    margin-left: 10px;
+  }
+  
+  .challenge-info h3 {
+    font-size: 16px;
+    margin: 0;
+  }
+  
+  .challenge-info p {
+    font-size: 14px;
+    margin: 3px 0;
+  }
+  
+  .time-left, .completed {
+    font-size: 14px;
+    color: green;
+  }
+  
+  .redeem {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .bottom-navigation {
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    max-width: 400px;
+    background-color: white;
+    padding: 10px 0;
+    border-top: 1px solid lightgray;
+  }
+  
+  .nav-button {
+    background: none;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .nav-button.active {
+    font-weight: bold;
+  }
+  
