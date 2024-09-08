@@ -27,7 +27,7 @@ const TreeProfile = () => {
         </Carousel>
       </div>
       <div className="details">
-        <div>Type: ABC</div>
+        <div>Type:Bribie-Island Pine</div>
         <div>You are visitor 1005</div>
         <Button href="report">Report issue</Button>
       </div>
