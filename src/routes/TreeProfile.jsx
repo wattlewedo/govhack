@@ -1,6 +1,8 @@
+import "./treeprofile.css";
+
 const TreeProfile = () => {
   return (
-    <div>
+    <div className="treeprofile">
       <h1>TreeProfile</h1>
     </div>
   );

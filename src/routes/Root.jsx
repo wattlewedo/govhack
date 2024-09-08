@@ -16,10 +16,10 @@ export default function Root() {
               <a href={`/camera`}>Camera</a>
             </li>
             <li>
-              <a href={`/`}>Log</a>
+              <a href={`/Log`}>Log</a>
             </li>
             <li>
-              <a href={`/`}>Account</a>
+              <a href={`/Account`}>Account</a>
             </li>
           </ul>
         </nav>

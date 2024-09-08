@@ -6,6 +6,8 @@ import Map from "./routes/Map";
 import Camera from "./routes/Camera";
 import Report from "./routes/Report";
 import TreeProfile from "./routes/TreeProfile";
+import Log from "./routes/Log";
+import Account from "./routes/Account";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
@@ -33,6 +35,14 @@ const router = createBrowserRouter([
       {
         path: "/report",
         element: <Report />,
+      },
+      {
+        path: "log",
+        element: <Log />,
+      },
+      {
+        path: "account",
+        element: <Account />,
       },
     ],
   },
