@@ -1,0 +1,183 @@
+Govhack 
+
+ 
+
+ML: 
+
+The modern world separates us from the natural world. Together we can change that. 
+
+Introducing technology that inspires people to work together, to grow together for all of us. 
+
+All around us, in our cities, our suburbs, our parks and country there are wonders of nature and marvels of human progress. However, human progress is a also threat to nature; individuals can make a difference. Communities can change the world. 
+
+What you are about to see is how the power of individual actions woven into a powerful community can drive positive progress and growth. 
+
+Wattle Watch started with a problem. ..something something... 
+
+Looking at the data.... 
+
+Inspiration... 
+
+A deeper look.. 
+
+The reveal... 
+
+Credits... 
+
+ 
+
+CH: 
+
+Desired information (items to mention) 
+
+    • GovHack 
+
+    • Sponsors 
+
+    • Challenge(s) 
+
+    • Team members 
+
+Sections 
+
+    Call to action 
+
+     
+
+Body 
+
+Imagine you could walk into the forest and share what you find with your community. 
+
+Imagine walking into the forest and share what you find with your community 
+
+… and reap the benefit of others’ experiences. 
+
+Build knowledge of the natural environment shared with neighbours and friends. 
+
+... discover something fantastic 
+
+... report invasive species 
+
+Compare discoveries with your friends 
+
+ 
+
+MR: 
+
+    “... harness the power of the everyday citizen...” 
+
+    Managing and protecting our biodiversity from invasive species 
+
+    Tracking and monitoring the health of our local koalas and platypi 
+
+    All ideas welcome, and remember to focus on our Moreton Bay region! 
+
+    “We are looking for a snappy pitch, an innovative approach and a working prototype of the solution” 
+
+ 
+
+Wattle Watch is an interactive web app that encourages people to go outside, explore the wilderness, document their discoveries and interact with other locals about their favourite landmarks. A real-time augmented reality user interface provides users with information about the flora and fauna they encounter. It recognises and augments the image with animals you would expect to see. The app provides features to leave a digital note on a significant tree for other users to find. 
+
+ 
+
+[0:01] Our Moreton Bay habitat is suffering. 
+
+[0:05] Invasive species threaten our local biodiversity.  
+
+[0:07] High bushfire risk surrounds us <show bushfire risk map> 
+
+[] And flooding impacts local plants and animals 
+
+[] City life separates us from the world around us 
+
+[] And it’s time to look outside 
+
+[] Look around you 
+
+[] And make a difference together 
+
+[0:20] We have the solution 
+
+[0:26] <Intro transition to main event> 
+
+[0:26] Imagine discovering new places 
+
+[] Exploring untouched areas 
+
+[] Following in the footsteps of those who have come before 
+
+[0:35] Imagine sharing your journey with friends and locals while helping to sustain the ecosystem 
+
+[] And protecting the wonders of nature for generations to come 
+
+[0:43] <preview ends> - PROBLEM  / DATA – graphs, planning, stuff 
+
+[] Moreton Bay has a rich tapestry of flora and fauna 
+
+[] Including 192 significant trees 
+
+[] Between 2009 and 2021 surveys of shorebird nesting sites have increased our understanding of their habitat 
+
+[] From 20 18 to 20 21 the number of unique koala sightings has increased from 79 to 126 
+
+[1:04] <music – add subtle chimes> IDEAS – whiteboard timelapse 
+
+[] However, to protect our future we need to do better 
+
+[] It’s vital that we build community and awareness of our surroundings 
+
+[] As shown by the data on shorebird roosts and koala sightings 
+
+[] Every individual observation makes a difference 
+
+[] By working together, we can increase civic participation and ecological resilience 
+
+[1:27] <music – build suspense> SOLUTION 
+
+[1:27] Introducing Wattle Watch 
+
+[1:30] Wattle Watch is an interactive web app that encourages people to go back into nature 
+
+[] Our real-time augmented reality user interface identifies local flora and fauna 
+
+[] Informs users about invasive species 
+
+[] Helps users to experience where others have been 
+
+[] As well as to document and share their own journey 
+
+[1:44] <music – hopeful>  
+
+[] Explore your local wilderness with our interactive app  
+
+[] Capture the beauty of nature 
+
+[] Observe animals in their natural habitat 
+
+[] Collect data on flora and fauna 
+
+[] Report risks before they become problems 
+
+[] Share your findings with friends and locals 
+
+[] Rediscover what others have seen and experience it for yourself  
+
+[] Learn about our local ecosystem while earning points and gaining rewards  
+
+[] Benefit from a better environment and more informed community 
+
+[] See your data in a larger context and watch as it helps generations to come 
+
+[] Individuals make a difference 
+
+[] Communities can change the world 
+
+[] Wattle you do to help? 
+
+[2:10] <music ending starts> 
+
+[] <credits: GovHack, City of Moreton Bay (sponsor), > 
+
+[2:22] <video ends> 
+
+ 
