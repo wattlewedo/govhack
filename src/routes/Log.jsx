@@ -8,14 +8,31 @@ const TreeProfile = () => {
     <div className="log">
       <h1>Log</h1>
       <div className="container">
-        {treeFeatures.map((t) => {
-          return (
-            <div>
-              <span></span>
-              {t.properties.OBJECTID}
-            </div>
-          );
-        })}
+        <table>
+          <thead>
+            <tr>
+              <th>Id</th>
+              <th>Type</th>
+              <th>Seen</th>
+            </tr>
+          </thead>
+
+          {treeFeatures.map((t) => {
+            return (
+              <tbody>
+                <tr className={t.properties.seen ? "seen" : "unseen"}>
+                  <td>{t.properties.OBJECTID}</td>
+                  <td>{t.properties.TREE_TYPE}</td>
+                  <td>
+                    {t.properties.seen
+                      ? t.properties.seen.toLocaleDateString("en-au")
+                      : null}
+                  </td>
+                </tr>
+              </tbody>
+            );
+          })}
+        </table>
       </div>
     </div>
   );
