@@ -24,5 +24,4 @@ Bay](https://hackerspace.govhack.org/challenges/moreton_bay_greening_as_we_grow_
 
 ## [General notes](data/notes.md)
 
-## [Figma
-Design](https://www.figma.com/proto/DU4essaUzmjwiHRrheHBDN/WattleWatch?node-id=15-1039&node-type=FRAME&t=4HGFwNIpkY9vEeuI-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A80&starting-point-node-id=15%3A1039)
+## [Figma Design](https://www.figma.com/proto/DU4essaUzmjwiHRrheHBDN/WattleWatch?node-id=15-1039&node-type=FRAME&t=4HGFwNIpkY9vEeuI-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A80&starting-point-node-id=15%3A1039)
