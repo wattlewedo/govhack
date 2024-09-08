@@ -5,7 +5,7 @@ const Report = () => {
     <div className="report">
       <h1>Report</h1>
       <form>
-        <div>
+        <div className="labelgroup">
           <label>Issue</label>
           <select name="issue" id="issue-select">
             <option value="">--Please choose an option--</option>
@@ -16,7 +16,7 @@ const Report = () => {
           </select>
         </div>
 
-        <div>
+        <div className="labelgroup">
           <label>Details</label>
           <textarea placeholder="Extra details"></textarea>
         </div>
