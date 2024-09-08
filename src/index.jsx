@@ -9,7 +9,7 @@ import TreeProfile from "./routes/TreeProfile";
 import Log from "./routes/Log";
 import Account from "./routes/Account";
 import Social from "./routes/Social";
-// import Friends from "./routes/Friends";
+import Friends from "./routes/Friends";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
@@ -50,10 +50,10 @@ const router = createBrowserRouter([
         path: "/social",
         element: <Social />,
       },
-    //   {
-    //     path: "friends",
-    //     element: <Friends />,
-    //   },
+      {
+        path: "friends",
+        element: <Friends />,
+      },
     ],
   },
 ]);

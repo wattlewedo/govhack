@@ -14,9 +14,6 @@ export default function Root() {
           <Button href={`/log`}>Log</Button>
           <Button href={`/social`}>Social</Button>
           <Button href={`/account`}>Account</Button>
-          <Button href={`/world`}>
-            <img src="world.svg"></img>
-          </Button>
         </ButtonGroup>
       </menu>
     </div>
