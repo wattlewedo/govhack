@@ -3,7 +3,7 @@
 
 Significant trees are used for ...
 
-We have shorebird data for 2009 and 2021. More extensive data collection seems to have occured which
+We have shorebird data for 2009 and 2021. More extensive data collection seems to have occurred which
 shows a better understanding of roosting locations.
 
 2009 to 2021 map view
