@@ -28,8 +28,8 @@ const Account = () => {
         <p>Google</p>
     </button>
     </div>
-
-    <div className="footer">
+    <br></br>
+    <div>
     <p>Already Have an Account?</p>
     <button className="login-btn">Login</button>
     </div>

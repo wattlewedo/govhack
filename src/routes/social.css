@@ -1,3 +1,104 @@
-.social {
+/* .social {
   background-color: darkgoldenrod;
+} */
+
+.profile-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 20px;
+}
+
+.profile-header {
+    display: flex;
+    align-items: center;
+}
+
+.back-button {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.profile-details {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.profile-pic {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.profile-info {
+    font-size: 14px;
+}
+
+.badges-section {
+    margin-top: 20px;
+}
+
+.badges {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.badge {
+    width: 40px;
+    height: 40px;
+    background-color: lightgray;
+    border-radius: 50%;
+}
+
+.bio-section {
+    margin-top: 10px;
+}
+
+.friends-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: lightgray;
+    border: none;
+    border-radius: 10px;
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.activity-section {
+    margin-top: 10px;
+}
+
+.activity-item {
+    margin-bottom: 10px;
+}
+
+.bottom-navigation {
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    max-width: 400px;
+    background-color: white;
+    padding: 10px 0;
+}
+
+.nav-button {
+    background: none;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.nav-button.active {
+    font-weight: bold;
 }
